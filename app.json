@@ -1,0 +1,6 @@
+{
+    "name": "simple heroku app",
+    "description": "simple heroku app",
+    "repository": "https://github.com/d-sudharsan/herokusample.git",
+    "keywords": ["node", "express", "html" ]
+  }
